@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { SignUpComponent } from './sign-up.component';\nexport const signupRoutes = [{\n  path: '',\n  component: SignUpComponent\n}];","map":null,"metadata":{},"sourceType":"module"}

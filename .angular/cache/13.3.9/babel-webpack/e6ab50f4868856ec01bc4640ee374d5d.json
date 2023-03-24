@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { LogoutComponent } from './logout.component';\nexport const logoutRoutes = [{\n  path: '',\n  component: LogoutComponent\n}];","map":null,"metadata":{},"sourceType":"module"}

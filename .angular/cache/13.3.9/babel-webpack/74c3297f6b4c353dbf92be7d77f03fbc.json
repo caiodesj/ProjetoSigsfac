@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  hostApi: \"https://sigsfac-go-linux.azurewebsites.net/api\",\n  production: true\n};","map":null,"metadata":{},"sourceType":"module"}
